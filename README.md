@@ -11,7 +11,9 @@ The project is build to fetch data from zomato and swiggy by automation using se
 How to use :-
 ______________________________________________________________________________________________________
  >> Add url of Store to be scrapped
+ 
  >> Add chrome driver path
+ 
  >> Run code and get List<Products> at last
 ______________________________________________________________________________________________________
 
